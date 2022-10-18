@@ -1,4 +1,4 @@
 [
-    { "nodeId": "NodeID-Lx7BqRD3LQuqZbpJzkc5UDTZb66cpez95", "name": "Node #1" },
-    { "nodeId": "NodeID-DMAS3hKKWMydmWGmGd265EYCoV7zFWEHK", "name": "Node #2" }
+    { "nodeId": "NodeID-Lx7BqRD3LQuqZbpJzkc5UDTZb66cpez95", "name": "Blockdaemon" },
+    { "nodeId": "NodeID-DMAS3hKKWMydmWGmGd265EYCoV7zFWEHK", "name": "Blockdaemon" }
 ]
