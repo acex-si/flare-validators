@@ -1,5 +1,22 @@
 [
     { "nodeId": "NodeID-Lx7BqRD3LQuqZbpJzkc5UDTZb66cpez95", "name": "Blockdaemon" },
     { "nodeId": "NodeID-DMAS3hKKWMydmWGmGd265EYCoV7zFWEHK", "name": "Blockdaemon" },
-    { "nodeId": "NodeID-2oZa4x84qqpdNqxKSL3PW28iex3VS1NQT", "name": "Blockdaemon" }
+    { "nodeId": "NodeID-2oZa4x84qqpdNqxKSL3PW28iex3VS1NQT", "name": "Blockdaemon" },
+    { "nodeId": "NodeID-4XZ7a7fGCzw6xqMFNQHy46JjUXnnq51Y1", "name": "Blockdaemon" },    
+    { "nodeId": "NodeID-LQHTbb1UKdB2mzWRoJWR6ZapvNmkZzWw", "name": "In to the Block" },
+    { "nodeId": "NodeID-KrKGrfzP2orrkyiuacKABvyGGty3KffQw", "name": "In to the Block" },
+    { "nodeId": "NodeID-6zMLLn4GvWRApEjAojJNgUEYHxfp2pbPi", "name": "In to the Block" },
+    { "nodeId": "NodeID-8bPGGqcmhxL8M7LML5sVvfKRQGDn17uPU", "name": "In to the Block" },
+    { "nodeId": "NodeID-6dBcEfrUMmhTbShvQfiqpybLmvUHtoFem", "name": "Staked" },
+    { "nodeId": "NodeID-6LWYVCBLcUKW89GXSAscosCAxhyMeoGQR", "name": "Staked" },
+    { "nodeId": "NodeID-2tpa7L26X8asp9Y5ZpRRtU61iPaooCQ9R", "name": "Staked" },
+    { "nodeId": "NodeID-6FDUTBPEHQmf7S5838REhubwhfPAaJz1i", "name": "Staked" },  
+    { "nodeId": "NodeID-95G1AziLcVNUtBHSzc8naSR1bUVvkDEyR", "name": "Figment" },
+    { "nodeId": "NodeID-Bd4G59NYc1zP9mMVf2yMzaSFA4StQuJn8", "name": "Figment" },
+    { "nodeId": "NodeID-Lkwe2cpLYh3MwmbsDjuFkJ4ecx5CPxYNJ", "name": "Figment" },
+    { "nodeId": "NodeID-HztJLzW4WwNYteuXpZ8cC9NnZ2cHD1X3Z", "name": "Figment" },    
+    { "nodeId": "NodeID-EQkfps4HcNP5PFmEG2h9QmBT3VsRu9kKu", "name": "Flare Foundation" },
+    { "nodeId": "NodeID-4Y6Hxd42SjQ4GNJHYF9GFjKEu2KAYTPDo", "name": "Flare Foundation" },
+    { "nodeId": "NodeID-5bTyYGC8rzxaQ9HFucqRM4aFwYGqT8ciA", "name": "Flare Foundation" },
+    { "nodeId": "NodeID-FDQmoefauig76jy7wac8kP5MHdLef9p9o", "name": "Flare Foundation" }
 ]
